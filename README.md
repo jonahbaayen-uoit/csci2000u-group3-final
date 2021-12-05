@@ -4,7 +4,7 @@ By Jackie Jiang, Jonah Baayen, Rija Baig, and Saawi Baloch.
 ---
 
 ### **Introduction**
-This paper will go over the fuel consumption statistics of newly-released vehicles available for sale in Canada from 1995 to 2014.
+This paper will go over the fuel consumption statistics of newly-released vehicles available for sale in Canada from 2012 to 2021.
 
 The data being analyzed was published by Natural Resources Canada, and contains data that includes but is not limited to the vehicle model, class, consumption, and emissions. By working with this data, it is possible to determine which vehicles are the most-efficient in terms of fuel consumption, and use this to improve performance going forward.
 
@@ -57,3 +57,27 @@ Another thing to notice is that different variations of the same model count as 
 From this analysis of the range efficiency, the main takeaway is that the best manufacters seem to have a tendency to find a vehicle class they are good at and stick to it, with the exception being Tesla who has spread out into multiple classes.
 
 #### **Fuel Consumption**
+
+The technology behind vehicles is expected to improve overtime as more technological advancements are made, so the consumption will be analyzed per-year from 2017 to 2021. The important column to pay attention to is **Comb Consumption kWh**.
+
+*2017*:
+
+![image](https://user-images.githubusercontent.com/90221511/144763819-ab2212ab-f240-4b4f-8f4c-262acf7ea90b.png)
+
+*2018*:
+
+![image](https://user-images.githubusercontent.com/90221511/144763826-bad8899c-28f2-4cd8-b06a-e70b74b5e413.png)
+
+*2019*:
+
+![image](https://user-images.githubusercontent.com/90221511/144763829-dede5dab-06d3-4706-b05b-d3acd30878b8.png)
+
+*2020*:
+
+![image](https://user-images.githubusercontent.com/90221511/144763832-2804d659-59db-4af9-bb7d-90e3a062901f.png)
+
+*2021*:
+
+![image](https://user-images.githubusercontent.com/90221511/144763834-7a390256-5068-434c-a4ae-5c59ccabf7ae.png)
+
+The goal is obviously to get consumption as low as possible (while still maintaining acceptable range and etc, however we will purely be focusing on consumption itself here).
