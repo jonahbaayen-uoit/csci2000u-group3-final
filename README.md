@@ -81,3 +81,25 @@ The technology behind vehicles is expected to improve overtime as more technolog
 ![image](https://user-images.githubusercontent.com/90221511/144763834-7a390256-5068-434c-a4ae-5c59ccabf7ae.png)
 
 The goal is obviously to get consumption as low as possible (while still maintaining acceptable range and etc, however we will purely be focusing on consumption itself here).
+
+As evident by watching the Comb Consumption kWh column over the years, the average and lowest fuel consumption values are indeed getting lower over time. This is desirable behaviour, however more can be analyzed from this data by paying attention to the range, the vehicle class, and the manufacturer (the Make column).
+
+The average range of the most fuel-efficient vehicles is shown to increase over-time, going with the highest in 2017 only being 201km, and the highest in 2021 being 568km. This is good, as it shows that as fuel efficiency increases over-time, range is not being sacrificed.
+
+While the vehicle class was very mixed in 2017, with all 3 top vehicles being of different classes, every year starting with 2018 has shown that the most fuel-efficient vehicles are mid-sized. This could be a result of either mechanical efficiency with mid-size vehicles being optimal for travel, or of business reasoning by manufacterers on the assumption that mid-size vehicles will sell the best.
+
+Observing the Make over-time shows that Tesla got a good foot in the industry in 2018, and slowly increased their fuel-efficiency until they were responsible for all 3 top-performing vehicles by 2021.
+
+Similar to observing the range analysis results, it looks easy to conclude that Tesla is clearly the most efficient in terms of fuel consumption as well. However, one last key observation is important to note when considering this: each manufacterer's output of different vehicle models over time.
+
+#### **Model Releases Per Year**
+
+Below is the number of models that each relevant manufacterer has released from 2017-2021.
+
+![image](https://user-images.githubusercontent.com/90221511/144764214-a882fc63-10d4-469b-9f24-ace65a3b7cfd.png)
+
+As you can see from this table, Tesla produces an insanely higher number of vehicle models per year than any other manufacterer. This may in-part be because, while other manufacterers may release a single model, Telsa releases numerous variants along the lines of a "Standard Range" model, a "Standard Range Plus" model, a "Mid Range" model, a "Long Range" model, and more as shown by this sample from 2019:
+
+![image](https://user-images.githubusercontent.com/90221511/144764338-9c650a4b-3def-4505-a650-2a0f325d6b22.png)
+
+So while they are clearly still producing the most efficient vehicles in terms of range and fuel consumption, it is important to remember that they may have a midleadingly-high lead above other manufacteres by having so many more models, despite said models being very similar to eachother.
