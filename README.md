@@ -6,7 +6,9 @@ By Jackie Jiang, Jonah Baayen, Rija Baig, and Saawi Baloch.
 ### **Introduction**
 This paper will go over the fuel consumption statistics of newly-released vehicles available for sale in Canada from 2012 to 2021.
 
-The data being analyzed was published by Natural Resources Canada, and contains data that includes but is not limited to the vehicle model, class, consumption, and emissions. By working with this data, it is possible to determine which vehicles are the most-efficient in terms of fuel consumption, and use this to improve performance going forward.
+The data being analyzed was published by [Natural Resources Canada](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64), and contains data that includes but is not limited to the vehicle model, class, consumption, and emissions. By working with this data, it is possible to determine which vehicles are the most-efficient in terms of fuel consumption, and use this to improve performance going forward.
+
+---
 
 ### **Discussion**
 There are a number of metrics that can be used to judge the efficiency of a vehicle, so it is important to analyze all of them.
@@ -103,3 +105,34 @@ As you can see from this table, Tesla produces an insanely higher number of vehi
 ![image](https://user-images.githubusercontent.com/90221511/144764338-9c650a4b-3def-4505-a650-2a0f325d6b22.png)
 
 So while they are clearly still producing the most efficient vehicles in terms of range and fuel consumption, it is important to remember that they may have a midleadingly-high lead above other manufacteres by having so many more models, despite said models being very similar to eachother.
+
+---
+
+### **Conclusion**
+
+#### Summary:
+In conclusion, the data analyzed has shown that Tesla is the most-efficient manufacterer of battery-electric vehicles in terms of both range on a single charge and fuel consumption. They are also the most diverse manufacterer class-wise, meaning that it is safe to conclude that they are currently leading the battery-electric vehicle industry forward. Other manufacterers are starting to catch on, however, as the number of new makes involved in the battery-electric veihcle industry increases each year.
+
+In terms of the future, the efficiency of vehicles on average is also increasing each year steadily, with mid-size vehicles showing to be the best option in terms of efficiency going forward.
+
+#### Reflection
+
+While Tesla has been a big-name in the media in terms of electric vehicles for the past few years, it was incredibly interesting to analyze objective data and reach the conclusion that they are indeed leading the electric vehicle industry in terms of efficiency and output. To reach the same conclusion through objective observation shows  that their popularity was not a fluke or product of good marketing, but instead an indication of the quality of their product.
+
+Given the chance to go deeper into this subject, it would be interesting to compare how this data changes over time in comparison to more external factors such as government subsidies and see if there is a correlation present in the adoption of electric vehicles.
+
+--- 
+
+### **Acknowledgements**
+
+This project was submitted as the final course project for CSCI 2000U “Scientific 
+Data Analysis” during Fall 2021. The authors certify that the work in this 
+repository is original and that all appropriate resources are rightfully cited.
+
+--- 
+
+### **README**
+
+To analyze this data, the csv file had to be converted to support UTF-8 encoding. While it does not do this by default, the file was manually converted by removing unsupported characters. This 'readable' file can be found in the root directory under the name [MY2012-2021 Battery Electric Vehicles Readable.csv](https://github.com/jonahbaayen/csci2000u-group3-final/blob/main/MY2012-2021%20Battery%20Electric%20Vehicles%20Readable.csv).
+
+To run the python notebook, this file must be placed in the same directory as the notebook. If this file is present, all the code should work properly.
