@@ -1,5 +1,5 @@
 # **Fuel Efficiency of Battery-Electric Vehicles**
-By Jackie Jiang ([JackTop325](https://github.com/JackTop325)), Jonah Baayen ([jonahbaayen](https://github.com/jonahbaayen)), Rija Baig ([rijabaig](https://github.com/rijabaig)), and Saawi Baloch.
+By Jackie Jiang ([JackTop325](https://github.com/JackTop325)), Jonah Baayen ([jonahbaayen](https://github.com/jonahbaayen)), Rija Baig ([rijabaig](https://github.com/rijabaig)), and Saawi Baloch ([saawibaloch13](https://github.com/saawibaloch13)).
 
 ---
 
